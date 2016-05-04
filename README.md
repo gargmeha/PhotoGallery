@@ -4,3 +4,4 @@
 - uses service to poll images
 - fires a notification when new images are available
 - on boot up, starts the service
+- search for specific term in the library
